@@ -3,4 +3,8 @@
   <groupId>web</groupId>
   <artifactId>web</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  <modules>
+  	<module>sdk</module>
+  </modules>
 </project>
